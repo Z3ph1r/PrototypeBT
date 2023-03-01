@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShooterCoreRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"J:\Unreal Projects\PrototypeProjectBTGithub\PrototypeBT\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"J:\Unreal Projects\PrototypeProjectBTGithub\PrototypeBT\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\Module.ShooterCoreRuntime.cpp.obj"
+"J:\Unreal Projects\PrototypeProjectBTGithub\PrototypeBT\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\Default.rc2.res"
+/OUT:"J:\Unreal Projects\PrototypeProjectBTGithub\PrototypeBT\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\UnrealEditor-ShooterCoreRuntime.lib"
